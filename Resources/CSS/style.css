@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+* { 
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+
+    
+}
+body {
+        font-family: Montserrat !important;
+}
+.facebook {
+                color: #6610f2;
+                text-decoration: none;
+
+}
+.facebook:hover {
+                        color:skyblue;
+                        text-decoration: none;
+}
+.twitter {
+                color: #6610f2;
+                text-decoration: none;
+}
+.twitter:hover {
+                color:skyblue;
+                text-decoration: none;
+}
+.image-fluid {
+                max-width: 100%vw;
+                height:70%vh;
+}
+.text1 {
+                text-align:center !important;
+                padding-top:50px;
+                
+}
+h1 {
+        font-size: 55px !important;
+        letter-spacing:0;
+        
+}
+.para {
+        padding-top: 20px;
+        font-size: 20px;
+
+}
+.signup {
+            border:2px solid rgb(194, 194, 194);
+            height:40px;
+            width: 250px;
+            border-radius: 15px 0px 0px 15px;
+            padding: 5px;
+            margin-right: 0;
+        }
+.signup:focus {
+        background-color:rgb(230, 230, 230);
+}
+.btn-sign {
+            padding: 12px 16px;
+            border-top-right-radius: 15px;
+            border-bottom-right-radius: 15px;
+            background-color:#6610f2;
+            font-weight: 200;
+            color:white;
+            margin-left: 0;
+}
+.navigation {
+            padding-top: 30px;
+            padding-bottom: 80px;
+
+}
+.card-col {
+            vertical-align: middle;
+            text-align:center;
+            
+
+}
+
+.second-para {
+                padding-top: 20px;
+                font-size: 15px;
+                margin-left: 15px;
+                margin-right: 15px;
+
+}
+.card-col {
+                text-align: center;
+                vertical-align: middle;
+                margin-left: 30px;
+                padding-bottom: 50px;
+}
+.team {
+                vertical-align: right;
+}
+.pitch-investment {
+                padding-top: 150px;
+                padding-bottom: 150px;
+                background-color:#e9e9e9;
+}
+.more-about {
+                padding: 10px 16px;
+                background-color: #6610f2;
+                color: white;
+                text-decoration: none;
+                border: none;
+                border-radius: 5px;
+
+}
+.more-about:hover {
+                background-color: #9465e0
+}
+.about-btn {
+                vertical-align: middle;
+                text-align: center;
+                margin-bottom: 100px;
+
+}
+.job-box {
+                border: 2px solid grey;
+                border-radius: 5px;
+                text-align: center;
+                
+}
+.job-box2 {
+        border: 2px solid grey;
+        border-radius: 9px;
+        text-align: center;
+        
+}
+.uptodate {
+                margin-top: 100px;
+}
+
+.footer-part {
+                background-color:#fafafa;
+                padding-top: 100px;
+                padding-bottom: 100px
+}
+.bottom-spacing {
+                margin-bottom: 100px;
+
+}
+.maillist {
+                margin-bottom: 100px;
+}
+.foot {
+                text-align: center;
+                margin-bottom: 30px;
+            
+}
+.icons {
+                letter-spacing: 10px;
+                font-size: 40px;
+                color: #6610f2
+}
+.icons:hover {
+                color: #9465e0;
+}
+footer {
+                background-color: #fafafa;
+}
