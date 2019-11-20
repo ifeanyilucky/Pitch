@@ -1,3 +1,4 @@
+
 @media screen and (max-width: 500px){
         
             .image-fluid {
@@ -18,4 +19,15 @@
         .column-part {
                 padding-top: 40px;
         }
+       
+}
+@media screen and (max-width: 380px){
+        .sign-fluid {
+                margin-right: 0;
+                border-radius: 15px;
+            }
+            .btn-sign1 {
+                border-radius: 15px;
+                margin-top: 10px;
+            }
 }
